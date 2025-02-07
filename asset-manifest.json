@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MariamEhab/static/css/main.af0f8168.css",
+    "main.js": "/MariamEhab/static/js/main.b9537224.js",
+    "static/js/453.b05d8aa5.chunk.js": "/MariamEhab/static/js/453.b05d8aa5.chunk.js",
+    "static/media/bg-light.png": "/MariamEhab/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/MariamEhab/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/coursera.png": "/MariamEhab/static/media/coursera.befde5efd7df7a4ef0be.png",
+    "static/media/me.png": "/MariamEhab/static/media/me.fb256a6b495ffd59ae6d.png",
+    "static/media/science.png": "/MariamEhab/static/media/science.0c4757f6c6efa100a345.png",
+    "static/media/pioneers.png": "/MariamEhab/static/media/pioneers.ad9fb8cfe664f3cd8707.png",
+    "static/media/sql.png": "/MariamEhab/static/media/sql.f5a97fdb8b11d5fc0027.png",
+    "static/media/sqlpython.png": "/MariamEhab/static/media/sqlpython.f78344e38c0514393063.png",
+    "static/media/Excel.png": "/MariamEhab/static/media/Excel.6d0193a3a03fa6135d67.png",
+    "index.html": "/MariamEhab/index.html",
+    "main.af0f8168.css.map": "/MariamEhab/static/css/main.af0f8168.css.map",
+    "main.b9537224.js.map": "/MariamEhab/static/js/main.b9537224.js.map",
+    "453.b05d8aa5.chunk.js.map": "/MariamEhab/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af0f8168.css",
+    "static/js/main.b9537224.js"
+  ]
+}
